@@ -1,4 +1,5 @@
 # ReferralLink Generator
+![alt text](https://github.com/vauzher/Referral-Link-Generator-with-QR-Code/blob/main/screenshot-1.png)
 
 A simple web tool to create, copy, and share referral links with QR codes. Streamlines marketing campaigns and network expansion with one-click functionality.
 
