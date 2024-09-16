@@ -25,7 +25,10 @@ No installation required. Simply clone this repository or download the files and
 git clone https://github.com/vauzher/Referral-Link-Generator-with-QR-Code.git
 cd referrallink-generator
 ```
-
+Change this link to your website's link
+```javascript
+var generatedLink = "https://yourawesomewebsite.com/?ref=" + formattedName;
+```
 ## Dependencies
 
 - [QRCode.js](https://davidshimjs.github.io/qrcodejs/) - Included via CDN for QR code generation
